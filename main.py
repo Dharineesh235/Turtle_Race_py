@@ -1,4 +1,3 @@
-# import colorgram
 import random
 import turtle
 
